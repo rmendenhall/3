@@ -1,0 +1,115 @@
+body{
+  color: black;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  font-family: 'Sacramento', serif;
+  font-size: 5.635rem;
+  margin: 50 auto 0 auto;
+  font-weight: normal;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+font-weight: normal;
+padding-bottom: 15px;
+color: teal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: teal;
+}
+p{
+  line-height: 2;
+}
+hr{
+  width: 4%;
+border: dotted teal 6px;
+border-bottom: none;
+margin: 50px auto;
+}
+.firsth1{
+  color: white;
+}
+.developer{
+  color: white;
+}
+.top-container{
+  background-color: teal;
+  height: 652px;
+  padding-top: 100px;
+}
+.middle-container{
+margin: 25px 0;
+}
+.bottom-container{
+background-color: teal;
+padding: 25px 0 20px;
+}
+.cloudtop{
+  position: absolute;
+  right: 350px;
+  top: 100px;
+}
+.cloudbottom{
+  position: absolute;
+  left: 350px;
+}
+.mountain{
+margin: 0 auto 0 auto;
+}
+.fort{
+  color: black;
+}
+
+.ross{
+  height: 200px;
+  width: 200px;
+}
+.webdev{
+  height: 200px;
+  width: 200px;
+}
+.fortnite{
+  height: 200px;
+  width: 200px;
+}
+.footer-link{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer-link{
+  font-weight: bold;
+  margin: 10px 15px 0 15px;
+  text-decoration: none;
+}
+.end{
+  color: white;
+  font-size: 0.75rem;
+  margin: 25px 0;
+}
+.btn {
+	box-shadow:inset 1px 7px 14px -7px #276873;
+	background:linear-gradient(to bottom, teal 5%, #408c99 100%);
+	background-color:teal;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px teal;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
